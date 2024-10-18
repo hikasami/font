@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleacutemod" format="2">
+  <advance width="552"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="109" y="610" type="line"/>
+      <point x="283" y="731" type="line"/>
+      <point x="245" y="780" type="line"/>
+      <point x="74" y="657" type="line"/>
+    </contour>
+    <contour>
+      <point x="305" y="610" type="line"/>
+      <point x="479" y="731" type="line"/>
+      <point x="441" y="780" type="line"/>
+      <point x="270" y="657" type="line"/>
+    </contour>
+  </outline>
+</glyph>

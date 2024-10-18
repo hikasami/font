@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="el-cyrl.salt" format="2">
+  <advance width="572"/>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="286" y="368" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="569" y="0" type="line"/>
+      <point x="338" y="554" type="line"/>
+      <point x="234" y="554" type="line"/>
+    </contour>
+  </outline>
+</glyph>

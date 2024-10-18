@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ha-cyrl" format="2">
+  <advance width="609"/>
+  <unicode hex="0425"/>
+  <outline>
+  <component base="X"/>
+  </outline>
+</glyph>

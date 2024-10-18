@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+  <advance width="295"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="111" y="-192" type="line"/>
+      <point x="185" y="-192" type="line"/>
+      <point x="185" y="352" type="line"/>
+      <point x="111" y="352" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="421" type="line"/>
+      <point x="185" y="421" type="line"/>
+      <point x="185" y="547" type="line"/>
+      <point x="111" y="547" type="line"/>
+    </contour>
+  </outline>
+</glyph>

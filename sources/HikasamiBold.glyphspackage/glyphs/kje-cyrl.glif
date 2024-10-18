@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kje-cyrl" format="2">
+  <advance width="554"/>
+  <unicode hex="045C"/>
+  <outline>
+    <contour>
+      <point x="251" y="613" type="line"/>
+      <point x="478" y="733" type="line"/>
+      <point x="424" y="825" type="line"/>
+      <point x="200" y="691" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="255" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="552" y="0" type="line"/>
+      <point x="319" y="279" type="line"/>
+      <point x="540" y="554" type="line"/>
+      <point x="379" y="554" type="line"/>
+      <point x="187" y="299" type="line"/>
+      <point x="187" y="554" type="line"/>
+      <point x="54" y="554" type="line"/>
+    </contour>
+  </outline>
+</glyph>

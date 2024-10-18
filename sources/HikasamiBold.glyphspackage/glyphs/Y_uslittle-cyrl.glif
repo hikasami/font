@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yuslittle-cyrl" format="2">
+  <advance width="766"/>
+  <unicode hex="0466"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+      <point x="253" y="191" type="line"/>
+      <point x="314" y="143" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="451" y="142" type="line"/>
+      <point x="516" y="191" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="436" y="739" type="line"/>
+      <point x="328" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="322" type="line"/>
+      <point x="382" y="546" type="line"/>
+      <point x="461" y="322" type="line"/>
+      <point x="382" y="254" type="line"/>
+    </contour>
+  </outline>
+</glyph>

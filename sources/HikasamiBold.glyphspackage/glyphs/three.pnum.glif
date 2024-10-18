@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.pnum" format="2">
+  <advance width="550"/>
+  <unicode hex="E003"/>
+  <outline>
+  <component base="three"/>
+  </outline>
+</glyph>

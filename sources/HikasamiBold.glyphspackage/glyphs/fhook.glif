@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fhook" format="2">
+  <advance width="560"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="3" y="-142" type="line"/>
+      <point x="20" y="-146"/>
+      <point x="45" y="-149"/>
+      <point x="62" y="-149" type="qcurve"/>
+      <point x="115" y="-149"/>
+      <point x="195" y="-121"/>
+      <point x="252" y="-60"/>
+      <point x="290" y="37"/>
+      <point x="302" y="106" type="qcurve"/>
+      <point x="364" y="470" type="line"/>
+      <point x="457" y="470" type="line"/>
+      <point x="476" y="585" type="line"/>
+      <point x="384" y="585" type="line"/>
+      <point x="387" y="599" type="line"/>
+      <point x="398" y="656"/>
+      <point x="441" y="705"/>
+      <point x="481" y="705" type="qcurve"/>
+      <point x="485" y="705"/>
+      <point x="492" y="704"/>
+      <point x="494" y="703" type="qcurve"/>
+      <point x="514" y="820" type="line"/>
+      <point x="504" y="822"/>
+      <point x="493" y="823"/>
+      <point x="485" y="823" type="qcurve"/>
+      <point x="392" y="823"/>
+      <point x="283" y="719"/>
+      <point x="262" y="611" type="qcurve"/>
+      <point x="257" y="585" type="line"/>
+      <point x="163" y="585" type="line"/>
+      <point x="144" y="470" type="line"/>
+      <point x="238" y="470" type="line"/>
+      <point x="178" y="128" type="line"/>
+      <point x="171" y="85"/>
+      <point x="150" y="25"/>
+      <point x="120" y="-13"/>
+      <point x="81" y="-30"/>
+      <point x="56" y="-30" type="qcurve"/>
+      <point x="48" y="-30"/>
+      <point x="34" y="-28"/>
+      <point x="23" y="-26" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

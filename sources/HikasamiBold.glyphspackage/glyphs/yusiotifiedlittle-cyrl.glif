@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yusiotifiedlittle-cyrl" format="2">
+  <advance width="866"/>
+  <unicode hex="0469"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="101" type="line"/>
+      <point x="305" y="101" type="line"/>
+      <point x="263" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="441" y="93" type="line"/>
+      <point x="479" y="73" type="line"/>
+      <point x="479" y="0" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="612" y="70" type="line"/>
+      <point x="652" y="91" type="line"/>
+      <point x="687" y="0" type="line"/>
+      <point x="829" y="0" type="line"/>
+      <point x="598" y="554" type="line"/>
+      <point x="494" y="554" type="line"/>
+      <point x="356" y="222" type="line"/>
+      <point x="187" y="222" type="line"/>
+      <point x="187" y="554" type="line"/>
+      <point x="54" y="554" type="line"/>
+    </contour>
+    <contour>
+      <point x="479" y="194" type="line"/>
+      <point x="546" y="368" type="line"/>
+      <point x="613" y="192" type="line"/>
+      <point x="546" y="157" type="line"/>
+    </contour>
+  </outline>
+</glyph>

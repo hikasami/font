@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshe-cyrl" format="2">
+  <advance width="675"/>
+  <unicode hex="045B"/>
+  <outline>
+    <contour>
+      <point x="13" y="671" type="line"/>
+      <point x="13" y="554" type="line"/>
+      <point x="405" y="554" type="line"/>
+      <point x="405" y="671" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="0" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="264" y="183" type="line"/>
+      <point x="264" y="267"/>
+      <point x="321" y="347"/>
+      <point x="381" y="347" type="qcurve"/>
+      <point x="440" y="347"/>
+      <point x="489" y="273"/>
+      <point x="489" y="185" type="qcurve"/>
+      <point x="489" y="0" type="line"/>
+      <point x="622" y="0" type="line"/>
+      <point x="622" y="215" type="line"/>
+      <point x="622" y="342"/>
+      <point x="513" y="470"/>
+      <point x="405" y="470" type="qcurve"/>
+      <point x="361" y="470"/>
+      <point x="294" y="445"/>
+      <point x="264" y="418" type="qcurve"/>
+      <point x="264" y="739" type="line"/>
+      <point x="131" y="739" type="line"/>
+    </contour>
+  </outline>
+</glyph>

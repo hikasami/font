@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="0"/>
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="-438" y="623" type="line"/>
+      <point x="-364" y="623" type="line"/>
+      <point x="-364" y="749" type="line"/>
+      <point x="-438" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="-291" y="623" type="line"/>
+      <point x="-217" y="623" type="line"/>
+      <point x="-217" y="749" type="line"/>
+      <point x="-291" y="749" type="line"/>
+    </contour>
+  </outline>
+</glyph>

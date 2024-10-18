@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka-cyrl.salt" format="2">
+  <advance width="652"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="193" y="739" type="line"/>
+      <point x="60" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="0" type="line"/>
+      <point x="622" y="0" type="line"/>
+      <point x="374" y="283" type="line"/>
+      <point x="598" y="554" type="line"/>
+      <point x="439" y="554" type="line"/>
+      <point x="223" y="276" type="line"/>
+    </contour>
+  </outline>
+</glyph>

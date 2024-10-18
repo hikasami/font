@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ya-cyrl" format="2">
+  <advance width="505"/>
+  <unicode hex="044F"/>
+  <outline>
+    <contour>
+      <point x="368" y="288" type="line"/>
+      <point x="241" y="288" type="line"/>
+      <point x="175" y="288"/>
+      <point x="109" y="336"/>
+      <point x="109" y="384" type="qcurve"/>
+      <point x="109" y="432"/>
+      <point x="175" y="480"/>
+      <point x="241" y="480" type="qcurve"/>
+      <point x="368" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="9" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="247" y="221" type="line"/>
+      <point x="368" y="221" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="442" y="547" type="line"/>
+      <point x="222" y="547" type="line"/>
+      <point x="180" y="547"/>
+      <point x="111" y="523"/>
+      <point x="61" y="480"/>
+      <point x="34" y="420"/>
+      <point x="34" y="384" type="qcurve"/>
+      <point x="34" y="325"/>
+      <point x="105" y="241"/>
+      <point x="167" y="227" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

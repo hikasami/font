@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>ascender</key>
+  <integer>800</integer>
+  <key>capHeight</key>
+  <integer>739</integer>
+  <key>copyright</key>
+  <string>Hikasami Develompent. Copyright (c) 2024 by Hikasami Design Team.</string>
+  <key>descender</key>
+  <integer>-200</integer>
+  <key>familyName</key>
+  <string>Hikasami</string>
+  <key>italicAngle</key>
+  <real>0</real>
+  <key>openTypeHeadCreated</key>
+  <string>2024/09/08 07:47:47</string>
+  <key>openTypeHeadFlags</key>
+  <array>
+    <integer>0</integer>
+    <integer>1</integer>
+  </array>
+  <key>openTypeHeadLowestRecPPEM</key>
+  <integer>7</integer>
+  <key>openTypeHheaAscender</key>
+  <integer>800</integer>
+  <key>openTypeHheaCaretOffset</key>
+  <integer>0</integer>
+  <key>openTypeHheaCaretSlopeRise</key>
+  <integer>1</integer>
+  <key>openTypeHheaCaretSlopeRun</key>
+  <integer>0</integer>
+  <key>openTypeHheaDescender</key>
+  <integer>-200</integer>
+  <key>openTypeHheaLineGap</key>
+  <integer>330</integer>
+  <key>openTypeNameDescription</key>
+  <string>Sans font for Hikasami Development by Hikasami Design Team</string>
+  <key>openTypeNameDesigner</key>
+  <string> Hikasami Design Team</string>
+  <key>openTypeNameDesignerURL</key>
+  <string>https://design.hikasami.com/</string>
+  <key>openTypeNameLicense</key>
+  <string>License Agreement for Hikasami Sans Font
+1. Subject of the License
+This License Agreement (&quot;Agreement&quot;) grants the licensee (&quot;User&quot;) the right to use the Hikasami Sans font (&quot;Font&quot;) under the terms outlined below. All rights to the Font are owned by Hikasami (&quot;Licensor&quot;).
+
+2. License for Use
+The Licensor grants the User a non-exclusive, limited right to use the Font for non-commercial purposes without prior approval. Non-commercial purposes include any usage that is not intended to generate profit, including personal and educational projects.
+
+3. Commercial Use
+The use of the Font for commercial purposes is strictly prohibited without prior written approval from the Licensor. Commercial purposes include, but are not limited to, the use of the Font in products, advertisements, websites, or other projects that generate revenue.
+
+To obtain permission for commercial use, the User must contact the Licensor and secure the appropriate license.
+
+4. Prohibition of Modification
+The User is prohibited from altering, editing, deforming, reworking, or otherwise modifying the Font without prior written consent from the Licensor. All rights to modified versions of the Font belong to the Licensor.
+
+5. Intellectual Property
+The Font is the intellectual property of the Licensor and is protected by copyright laws and international treaties. The User does not have the right to assign, sell, lease, transfer, or distribute the Font to third parties without written permission from the Licensor.
+
+6. Restrictions
+The User is prohibited from:
+
+Selling or licensing the Font to third parties;
+Using the Font to create works intended for profit without the Licensor&apos;s permission;
+Making any modifications to the Font&apos;s original code or design without the Licensor&apos;s approval.
+7. Liability
+The Licensor is not liable for any losses or damages arising from the use of the Font, including indirect, incidental, or consequential damages.
+
+8. Term and Termination
+This Agreement becomes effective upon the download or installation of the Font and remains in effect until terminated by the Licensor. The Licensor reserves the right to terminate this Agreement in the event of any violation of its terms by the User.
+
+9. Contact for Permissions
+To obtain a commercial license or permission to modify the Font, please contact the Licensor at: design@hikasami.com.</string>
+  <key>openTypeNameLicenseURL</key>
+  <string>https://design.hikasami.com/font/license\</string>
+  <key>openTypeNameManufacturer</key>
+  <string>Hikasami Development</string>
+  <key>openTypeNameManufacturerURL</key>
+  <string>https://hikasami.com/</string>
+  <key>openTypeNamePreferredFamilyName</key>
+  <string>Hikasami</string>
+  <key>openTypeNamePreferredSubfamilyName</key>
+  <string>Regular</string>
+  <key>openTypeNameUniqueID</key>
+  <string>Hikasami:Version 1.002</string>
+  <key>openTypeNameVersion</key>
+  <string>Version 1.002;October 1, 2024;FontCreator 15.0.0.2958 64-bit</string>
+  <key>openTypeOS2CodePageRanges</key>
+  <array>
+    <integer>0</integer>
+    <integer>2</integer>
+  </array>
+  <key>openTypeOS2FamilyClass</key>
+  <array>
+    <integer>0</integer>
+    <integer>0</integer>
+  </array>
+  <key>openTypeOS2Panose</key>
+  <array>
+    <integer>2</integer>
+    <integer>11</integer>
+    <integer>5</integer>
+    <integer>2</integer>
+    <integer>2</integer>
+    <integer>2</integer>
+    <integer>2</integer>
+    <integer>2</integer>
+    <integer>2</integer>
+    <integer>4</integer>
+  </array>
+  <key>openTypeOS2Selection</key>
+  <array>
+    <integer>6</integer>
+    <integer>8</integer>
+  </array>
+  <key>openTypeOS2StrikeoutPosition</key>
+  <integer>258</integer>
+  <key>openTypeOS2StrikeoutSize</key>
+  <integer>49</integer>
+  <key>openTypeOS2SubscriptXOffset</key>
+  <integer>0</integer>
+  <key>openTypeOS2SubscriptXSize</key>
+  <integer>650</integer>
+  <key>openTypeOS2SubscriptYOffset</key>
+  <integer>140</integer>
+  <key>openTypeOS2SubscriptYSize</key>
+  <integer>699</integer>
+  <key>openTypeOS2SuperscriptXOffset</key>
+  <integer>0</integer>
+  <key>openTypeOS2SuperscriptXSize</key>
+  <integer>650</integer>
+  <key>openTypeOS2SuperscriptYOffset</key>
+  <integer>479</integer>
+  <key>openTypeOS2SuperscriptYSize</key>
+  <integer>699</integer>
+  <key>openTypeOS2Type</key>
+  <array>
+    <integer>8</integer>
+  </array>
+  <key>openTypeOS2TypoAscender</key>
+  <integer>800</integer>
+  <key>openTypeOS2TypoDescender</key>
+  <integer>-200</integer>
+  <key>openTypeOS2TypoLineGap</key>
+  <integer>330</integer>
+  <key>openTypeOS2UnicodeRanges</key>
+  <array>
+    <integer>0</integer>
+    <integer>1</integer>
+    <integer>2</integer>
+    <integer>5</integer>
+    <integer>6</integer>
+    <integer>9</integer>
+    <integer>31</integer>
+    <integer>33</integer>
+    <integer>35</integer>
+    <integer>60</integer>
+    <integer>62</integer>
+  </array>
+  <key>openTypeOS2VendorID</key>
+  <string>HKSM</string>
+  <key>openTypeOS2WeightClass</key>
+  <integer>400</integer>
+  <key>openTypeOS2WidthClass</key>
+  <integer>5</integer>
+  <key>openTypeOS2WinAscent</key>
+  <integer>1060</integer>
+  <key>openTypeOS2WinDescent</key>
+  <integer>270</integer>
+  <key>postscriptFontName</key>
+  <string>Hikasami</string>
+  <key>postscriptUnderlinePosition</key>
+  <integer>-96</integer>
+  <key>postscriptUnderlineThickness</key>
+  <integer>58</integer>
+  <key>styleMapFamilyName</key>
+  <string>Hikasami</string>
+  <key>styleMapStyleName</key>
+  <string>regular</string>
+  <key>styleName</key>
+  <string>Regular</string>
+  <key>trademark</key>
+  <string>Hikasami Develompent</string>
+  <key>unitsPerEm</key>
+  <integer>1000</integer>
+  <key>versionMajor</key>
+  <integer>1</integer>
+  <key>versionMinor</key>
+  <integer>131</integer>
+  <key>xHeight</key>
+  <integer>547</integer>
+</dict>
+</plist>

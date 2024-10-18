@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Che-cyrl" format="2">
+  <advance width="595"/>
+  <unicode hex="0427"/>
+  <outline>
+    <contour>
+      <point x="445" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="519" y="739" type="line"/>
+      <point x="445" y="739" type="line"/>
+      <point x="445" y="368" type="line"/>
+      <point x="398" y="362"/>
+      <point x="338" y="357"/>
+      <point x="310" y="357" type="qcurve"/>
+      <point x="206" y="357"/>
+      <point x="118" y="427"/>
+      <point x="118" y="510" type="qcurve"/>
+      <point x="118" y="739" type="line"/>
+      <point x="43" y="739" type="line"/>
+      <point x="43" y="510" type="line"/>
+      <point x="43" y="395"/>
+      <point x="168" y="290"/>
+      <point x="305" y="290" type="qcurve"/>
+      <point x="336" y="290"/>
+      <point x="397" y="295"/>
+      <point x="445" y="301" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I-cyrl" format="2">
+  <advance width="740"/>
+  <unicode hex="0418"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="590" y="629" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="664" y="739" type="line"/>
+      <point x="590" y="739" type="line"/>
+      <point x="150" y="110" type="line"/>
+      <point x="150" y="739" type="line"/>
+      <point x="76" y="739" type="line"/>
+    </contour>
+  </outline>
+</glyph>

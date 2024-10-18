@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+  <advance width="0"/>
+  <unicode hex="0303"/>
+  <outline>
+    <contour>
+      <point x="-433" y="633" type="line"/>
+      <point x="-426" y="641"/>
+      <point x="-412" y="653"/>
+      <point x="-397" y="661"/>
+      <point x="-381" y="665"/>
+      <point x="-373" y="665" type="qcurve"/>
+      <point x="-366" y="665"/>
+      <point x="-346" y="660"/>
+      <point x="-333" y="655" type="qcurve"/>
+      <point x="-302" y="643"/>
+      <point x="-264" y="633"/>
+      <point x="-252" y="633" type="qcurve"/>
+      <point x="-233" y="633"/>
+      <point x="-188" y="662"/>
+      <point x="-176" y="682" type="qcurve"/>
+      <point x="-209" y="728" type="line"/>
+      <point x="-225" y="712"/>
+      <point x="-251" y="697"/>
+      <point x="-266" y="697" type="qcurve"/>
+      <point x="-273" y="697"/>
+      <point x="-301" y="705"/>
+      <point x="-314" y="711" type="qcurve"/>
+      <point x="-339" y="722"/>
+      <point x="-360" y="728"/>
+      <point x="-373" y="728" type="qcurve"/>
+      <point x="-400" y="728"/>
+      <point x="-449" y="702"/>
+      <point x="-466" y="679" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

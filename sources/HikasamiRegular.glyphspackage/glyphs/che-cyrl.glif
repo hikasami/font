@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="che-cyrl" format="2">
+  <advance width="523"/>
+  <unicode hex="0447"/>
+  <outline>
+    <contour>
+      <point x="386" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="547" type="line"/>
+      <point x="386" y="547" type="line"/>
+      <point x="386" y="284" type="line"/>
+      <point x="348" y="279"/>
+      <point x="300" y="275"/>
+      <point x="273" y="275" type="qcurve"/>
+      <point x="227" y="275"/>
+      <point x="168" y="285"/>
+      <point x="133" y="309"/>
+      <point x="119" y="350"/>
+      <point x="119" y="381" type="qcurve"/>
+      <point x="119" y="547" type="line"/>
+      <point x="45" y="547" type="line"/>
+      <point x="45" y="381" type="line"/>
+      <point x="45" y="300"/>
+      <point x="135" y="208"/>
+      <point x="214" y="208" type="qcurve"/>
+      <point x="259" y="208"/>
+      <point x="344" y="213"/>
+      <point x="386" y="218" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

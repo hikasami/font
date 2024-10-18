@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ghe-cyrl" format="2">
+  <advance width="467"/>
+  <unicode hex="0413"/>
+  <outline>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="208" y="608" type="line"/>
+      <point x="460" y="608" type="line"/>
+      <point x="460" y="739" type="line"/>
+      <point x="71" y="739" type="line"/>
+    </contour>
+  </outline>
+</glyph>

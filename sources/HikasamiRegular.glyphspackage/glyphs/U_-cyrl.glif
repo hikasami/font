@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U-cyrl" format="2">
+  <advance width="564"/>
+  <unicode hex="0423"/>
+  <outline>
+    <contour>
+      <point x="159" y="0" type="line"/>
+      <point x="237" y="0" type="line"/>
+      <point x="554" y="739" type="line"/>
+      <point x="476" y="739" type="line"/>
+      <point x="282" y="287" type="line"/>
+      <point x="88" y="739" type="line"/>
+      <point x="10" y="739" type="line"/>
+      <point x="243" y="196" type="line"/>
+    </contour>
+  </outline>
+</glyph>

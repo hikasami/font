@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="je-cyrl" format="2">
+  <advance width="203"/>
+  <unicode hex="0458"/>
+  <outline>
+  <component base="j"/>
+  </outline>
+</glyph>

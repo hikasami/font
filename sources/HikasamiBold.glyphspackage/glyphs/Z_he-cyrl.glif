@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhe-cyrl" format="2">
+  <advance width="913"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="12" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="388" y="345" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="525" y="345" type="line"/>
+      <point x="738" y="0" type="line"/>
+      <point x="901" y="0" type="line"/>
+      <point x="654" y="376" type="line"/>
+      <point x="901" y="739" type="line"/>
+      <point x="738" y="739" type="line"/>
+      <point x="525" y="400" type="line"/>
+      <point x="525" y="739" type="line"/>
+      <point x="388" y="739" type="line"/>
+      <point x="388" y="400" type="line"/>
+      <point x="175" y="739" type="line"/>
+      <point x="12" y="739" type="line"/>
+      <point x="259" y="376" type="line"/>
+    </contour>
+  </outline>
+</glyph>

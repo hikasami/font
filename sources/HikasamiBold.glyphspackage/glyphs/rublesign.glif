@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rublesign" format="2">
+  <advance width="560"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="221" y="424" type="line"/>
+      <point x="221" y="608" type="line"/>
+      <point x="262" y="608" type="line"/>
+      <point x="300" y="608"/>
+      <point x="352" y="598"/>
+      <point x="384" y="576"/>
+      <point x="398" y="540"/>
+      <point x="398" y="514" type="qcurve"/>
+      <point x="398" y="466"/>
+      <point x="331" y="424"/>
+      <point x="257" y="424" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="221" y="124" type="line"/>
+      <point x="413" y="124" type="line"/>
+      <point x="413" y="255" type="line"/>
+      <point x="221" y="255" type="line"/>
+      <point x="221" y="293" type="line"/>
+      <point x="262" y="293" type="line"/>
+      <point x="406" y="293"/>
+      <point x="536" y="399"/>
+      <point x="536" y="517" type="qcurve"/>
+      <point x="536" y="632"/>
+      <point x="404" y="739"/>
+      <point x="264" y="739" type="qcurve"/>
+      <point x="84" y="739" type="line"/>
+      <point x="84" y="424" type="line"/>
+      <point x="24" y="424" type="line"/>
+      <point x="24" y="293" type="line"/>
+      <point x="84" y="293" type="line"/>
+      <point x="84" y="255" type="line"/>
+      <point x="24" y="255" type="line"/>
+      <point x="24" y="124" type="line"/>
+      <point x="84" y="124" type="line"/>
+    </contour>
+  </outline>
+</glyph>

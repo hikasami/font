@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ie-cyrl" format="2">
+  <advance width="634"/>
+  <unicode hex="0435"/>
+  <outline>
+  <component base="e"/>
+  </outline>
+</glyph>

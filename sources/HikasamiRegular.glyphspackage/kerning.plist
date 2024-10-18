@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>public.kern1._</key>
+  <dict>
+    <key>public.kern2._</key>
+    <integer>-46</integer>
+  </dict>
+  <key>public.kern1.KernClass2</key>
+  <dict>
+    <key>public.kern2.KernClass3</key>
+    <integer>-46</integer>
+    <key>public.kern2.KernClass4</key>
+    <integer>-46</integer>
+  </dict>
+  <key>public.kern1.KernClass1</key>
+  <dict>
+    <key>public.kern2.KernClass2</key>
+    <integer>-46</integer>
+  </dict>
+  <key>public.kern1.KernClass4</key>
+  <dict>
+    <key>public.kern2.KernClass2</key>
+    <integer>-84</integer>
+  </dict>
+  <key>public.kern1.KernClass5</key>
+  <dict>
+    <key>public.kern2.KernClass6</key>
+    <integer>-60</integer>
+  </dict>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gje-cyrl" format="2">
+  <advance width="444"/>
+  <unicode hex="0403"/>
+  <outline>
+    <contour>
+      <point x="194" y="792" type="line"/>
+      <point x="387" y="906" type="line"/>
+      <point x="353" y="964" type="line"/>
+      <point x="160" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="672" type="line"/>
+      <point x="437" y="672" type="line"/>
+      <point x="437" y="739" type="line"/>
+      <point x="76" y="739" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ve-cyrl" format="2">
+  <advance width="587"/>
+  <unicode hex="0412"/>
+  <outline>
+  <component base="B"/>
+  </outline>
+</glyph>

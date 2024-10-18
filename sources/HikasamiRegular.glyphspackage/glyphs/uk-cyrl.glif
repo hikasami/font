@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uk-cyrl" format="2">
+  <advance width="1155"/>
+  <unicode hex="0479"/>
+  <outline>
+  <component base="o"/>
+  <component base="y" xOffset="587"/>
+  </outline>
+</glyph>

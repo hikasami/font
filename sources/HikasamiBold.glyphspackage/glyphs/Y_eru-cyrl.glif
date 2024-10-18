@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yeru-cyrl" format="2">
+  <advance width="865"/>
+  <unicode hex="042B"/>
+  <outline>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="424" y="0"/>
+      <point x="583" y="110"/>
+      <point x="583" y="224" type="qcurve"/>
+      <point x="583" y="342"/>
+      <point x="427" y="450"/>
+      <point x="257" y="450" type="qcurve"/>
+      <point x="208" y="450" type="line"/>
+      <point x="208" y="739" type="line"/>
+      <point x="71" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="131" type="line"/>
+      <point x="208" y="319" type="line"/>
+      <point x="256" y="319" type="line"/>
+      <point x="351" y="319"/>
+      <point x="445" y="273"/>
+      <point x="445" y="227" type="qcurve"/>
+      <point x="445" y="200"/>
+      <point x="427" y="163"/>
+      <point x="384" y="141"/>
+      <point x="314" y="131"/>
+      <point x="263" y="131" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="657" y="0" type="line"/>
+      <point x="794" y="0" type="line"/>
+      <point x="794" y="739" type="line"/>
+      <point x="657" y="739" type="line"/>
+    </contour>
+  </outline>
+</glyph>

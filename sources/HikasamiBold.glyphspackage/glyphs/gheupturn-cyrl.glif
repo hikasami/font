@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gheupturn-cyrl" format="2">
+  <advance width="386"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="433" type="line"/>
+      <point x="368" y="433" type="line"/>
+      <point x="368" y="669" type="line"/>
+      <point x="287" y="669" type="line"/>
+      <point x="256" y="554" type="line"/>
+      <point x="54" y="554" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dje-cyrl" format="2">
+  <advance width="675"/>
+  <unicode hex="0452"/>
+  <outline>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+      <point x="265" y="183" type="line"/>
+      <point x="265" y="267"/>
+      <point x="322" y="347"/>
+      <point x="382" y="347" type="qcurve"/>
+      <point x="441" y="347"/>
+      <point x="490" y="273"/>
+      <point x="490" y="185" type="qcurve"/>
+      <point x="490" y="13" type="line"/>
+      <point x="490" y="-22"/>
+      <point x="440" y="-64"/>
+      <point x="400" y="-64" type="qcurve"/>
+      <point x="400" y="-185" type="line"/>
+      <point x="444" y="-185"/>
+      <point x="525" y="-155"/>
+      <point x="586" y="-104"/>
+      <point x="623" y="-37"/>
+      <point x="623" y="0" type="qcurve"/>
+      <point x="623" y="215" type="line"/>
+      <point x="623" y="342"/>
+      <point x="514" y="470"/>
+      <point x="406" y="470" type="qcurve"/>
+      <point x="362" y="470"/>
+      <point x="295" y="445"/>
+      <point x="265" y="418" type="qcurve"/>
+      <point x="265" y="554" type="line"/>
+      <point x="405" y="554" type="line"/>
+      <point x="405" y="671" type="line"/>
+      <point x="265" y="671" type="line"/>
+      <point x="265" y="739" type="line"/>
+      <point x="132" y="739" type="line"/>
+      <point x="132" y="671" type="line"/>
+      <point x="13" y="671" type="line"/>
+      <point x="13" y="554" type="line"/>
+      <point x="132" y="554" type="line"/>
+    </contour>
+  </outline>
+</glyph>

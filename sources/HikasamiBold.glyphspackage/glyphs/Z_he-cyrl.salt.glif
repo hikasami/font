@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhe-cyrl.salt" format="2">
+  <advance width="1133"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="468" y="372" type="line"/>
+      <point x="183" y="739" type="line"/>
+      <point x="20" y="739" type="line"/>
+      <point x="322" y="376" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="0" type="line"/>
+      <point x="635" y="0" type="line"/>
+      <point x="635" y="739" type="line"/>
+      <point x="498" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="950" y="0" type="line"/>
+      <point x="1113" y="0" type="line"/>
+      <point x="811" y="376" type="line"/>
+      <point x="1113" y="739" type="line"/>
+      <point x="950" y="739" type="line"/>
+      <point x="665" y="372" type="line"/>
+    </contour>
+  </outline>
+</glyph>

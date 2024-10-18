@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="De-cyrl.salt" format="2">
+  <advance width="840"/>
+  <outline>
+    <contour>
+      <point x="254" y="131" type="line"/>
+      <point x="420" y="536" type="line"/>
+      <point x="586" y="131" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="-145" type="line"/>
+      <point x="110" y="-145" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="702" y="0" type="line"/>
+      <point x="730" y="-145" type="line"/>
+      <point x="826" y="-145" type="line"/>
+      <point x="826" y="131" type="line"/>
+      <point x="728" y="131" type="line"/>
+      <point x="475" y="739" type="line"/>
+      <point x="365" y="739" type="line"/>
+      <point x="112" y="131" type="line"/>
+      <point x="14" y="131" type="line"/>
+    </contour>
+  </outline>
+</glyph>

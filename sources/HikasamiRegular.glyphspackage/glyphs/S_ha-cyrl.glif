@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sha-cyrl" format="2">
+  <advance width="896"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="820" y="0" type="line"/>
+      <point x="820" y="739" type="line"/>
+      <point x="746" y="739" type="line"/>
+      <point x="746" y="67" type="line"/>
+      <point x="485" y="67" type="line"/>
+      <point x="485" y="739" type="line"/>
+      <point x="411" y="739" type="line"/>
+      <point x="411" y="67" type="line"/>
+      <point x="150" y="67" type="line"/>
+      <point x="150" y="739" type="line"/>
+      <point x="76" y="739" type="line"/>
+    </contour>
+  </outline>
+</glyph>

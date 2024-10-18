@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lmiddledot" format="2">
+  <advance width="438"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="739" type="line"/>
+      <point x="54" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="300" type="line"/>
+      <point x="398" y="300" type="line"/>
+      <point x="398" y="433" type="line"/>
+      <point x="265" y="433" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O-cyrl" format="2">
+  <advance width="842"/>
+  <unicode hex="041E"/>
+  <outline>
+  <component base="O"/>
+  </outline>
+</glyph>

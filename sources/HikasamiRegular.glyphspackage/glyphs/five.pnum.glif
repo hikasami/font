@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.pnum" format="2">
+  <advance width="554"/>
+  <unicode hex="E005"/>
+  <outline>
+  <component base="five"/>
+  </outline>
+</glyph>

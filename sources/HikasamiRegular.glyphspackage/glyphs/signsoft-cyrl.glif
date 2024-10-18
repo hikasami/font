@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="signsoft-cyrl" format="2">
+  <advance width="509"/>
+  <unicode hex="044C"/>
+  <outline>
+    <contour>
+      <point x="137" y="67" type="line"/>
+      <point x="137" y="261" type="line"/>
+      <point x="279" y="261" type="line"/>
+      <point x="345" y="261"/>
+      <point x="411" y="213"/>
+      <point x="411" y="164" type="qcurve"/>
+      <point x="411" y="115"/>
+      <point x="345" y="67"/>
+      <point x="279" y="67" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="340" y="0"/>
+      <point x="409" y="24"/>
+      <point x="459" y="67"/>
+      <point x="486" y="128"/>
+      <point x="486" y="164" type="qcurve"/>
+      <point x="486" y="200"/>
+      <point x="459" y="261"/>
+      <point x="409" y="304"/>
+      <point x="340" y="328"/>
+      <point x="298" y="328" type="qcurve"/>
+      <point x="137" y="328" type="line"/>
+      <point x="137" y="547" type="line"/>
+      <point x="63" y="547" type="line"/>
+    </contour>
+  </outline>
+</glyph>
