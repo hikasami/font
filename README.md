@@ -6,7 +6,7 @@ Hikasami Sans is a sans-serif typeface designed for legibility and simplicity. I
 ### Installation
 
 Download the latest release from the [releases page](https://github.com/hikasami/font/releases/latest) and install the fonts on your system.
-* [Download Hikasami Sans](https://github.com/hikasami/font/releases/download/1.0.0/HikasamiSans-1.4.0.zip)
+* [Download Hikasami Sans](https://github.com/hikasami/font/releases/download/1.0.0/HikasamiSans-1.0.0.zip)
 
 ### Inspiration
 Hikasami Sans has been influenced and inspired by the following typefaces: [Inter](https://rsms.me/inter/), [SF Pro](https://developer.apple.com/fonts/) and [Suisse International](https://www.swisstypefaces.com/fonts/suisse/). We thank the creators of these typefaces for their craft.
