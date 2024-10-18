@@ -1,4 +1,7 @@
 # Hikasami Sans Font
+![At Hikasami, we create a unique typeface that combines readability, speed of perception and modern design. This typeface is designed with all the nuances in mind to provide maximum reading comfort and visual pleasure, while maintaining a stylish and modern aesthetic.](./.github/images/banner--dark.png#gh-dark-mode-only)
+![At Hikasami, we create a unique typeface that combines readability, speed of perception and modern design. This typeface is designed with all the nuances in mind to provide maximum reading comfort and visual pleasure, while maintaining a stylish and modern aesthetic.](./.github/images/banner--light.png#gh-light-mode-only)
+
 Hikasami Sans is a new font family for Hikasami, created by [Hikasami Design Team](https://hikasami.com/design).
 
 Hikasami Sans is a sans-serif typeface designed for legibility and simplicity. It is a modern, geometric typeface. It is designed to be used in headlines, logos, posters, and other large display sizes.
