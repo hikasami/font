@@ -2,6 +2,6 @@
 	font-family: 'Hikasami';
 	src: url('https://github.com/hikasami/font/raw/refs/heads/main/dist/eot/Hikasami-VF.eot'); /* IE 9 Compatibility Mode */
 	src: url('https://github.com/hikasami/font/raw/refs/heads/main/dist/webfonts/Hikasami-VF.woff2') format('woff2'), /* Super Modern Browsers */
-		 url('https://github.com/hikasami/font/raw/refs/heads/main/dist/webfonts//Hikasami-VF.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		 url('https://github.com/hikasami/font/raw/refs/heads/main/dist/webfonts/Hikasami-VF.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
 		 url('https://github.com/hikasami/font/raw/refs/heads/main/dist/ttf/Hikasami-VF.ttf') format('truetype'), /* Safari, Android, iOS */
 }
