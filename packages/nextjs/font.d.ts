@@ -1,6 +1,6 @@
 import { NextFontWithVariable } from "next/dist/compiled/@next/font";
 
-declare module "hikasami-sans/font" {
+declare module "@hikasami/font" {
   /**
    * Hikasami Sans variable font, with `className` and `variable` properties,
    * meant to be attached to DOM elements via `className`
@@ -9,15 +9,15 @@ declare module "hikasami-sans/font" {
    *
    * Included weights: 100 through 900
    *
-   * * {@link https://www.npmjs.com/package/hikasami-sans?activeTab=readme#app-router View App Router Example}
-   * * {@link https://www.npmjs.com/package/hikasami-sans?activeTab=readme#with-tailwind-css View Tailwind Example}
-   * * {@link https://www.npmjs.com/package/hikasami-sans?activeTab=readme#pages-router View Pages Router Example}
+   * * {@link https://www.npmjs.com/package/@hikasami/font?activeTab=readme#app-router View App Router Example}
+   * * {@link https://www.npmjs.com/package/@hikasami/font?activeTab=readme#with-tailwind-css View Tailwind Example}
+   * * {@link https://www.npmjs.com/package/@hikasami/font?activeTab=readme#pages-router View Pages Router Example}
    * * {@link https://github.com/hikasami/font/releases Download Font Files}
    */
   export const HikasamiSans: NextFontWithVariable;
 }
 
-declare module "hikasami-sans/font/sans" {
+declare module "@hikasami/font/sans" {
   /**
    * Hikasami Sans variable font, with `className` and `variable` properties,
    * meant to be attached to DOM elements via `className`
@@ -26,15 +26,15 @@ declare module "hikasami-sans/font/sans" {
    *
    * Included weights: 100 through 900
    *
-   * * {@link https://www.npmjs.com/package/hikasami-sans?activeTab=readme#app-router View App Router Example}
-   * * {@link https://www.npmjs.com/package/hikasami-sans?activeTab=readme#with-tailwind-css View Tailwind Example}
-   * * {@link https://www.npmjs.com/package/hikasami-sans?activeTab=readme#pages-router View Pages Router Example}
+   * * {@link https://www.npmjs.com/package/@hikasami/font?activeTab=readme#app-router View App Router Example}
+   * * {@link https://www.npmjs.com/package/@hikasami/font?activeTab=readme#with-tailwind-css View Tailwind Example}
+   * * {@link https://www.npmjs.com/package/@hikasami/font?activeTab=readme#pages-router View Pages Router Example}
    * * {@link https://github.com/hikasami/font/releases Download Font Files}
    */
   export const HikasamiSans: NextFontWithVariable;
 }
 
-declare module "hikasami-sans/font/sans-non-variable" {
+declare module "@hikasami/font/sans-non-variable" {
   /**
    * Hikasami Sans font, with `className` and `variable` properties,
    * meant to be attached to DOM elements via `className`
@@ -44,9 +44,9 @@ declare module "hikasami-sans/font/sans-non-variable" {
    *
    * Included weights: 100 through 900
    *
-   * * {@link https://www.npmjs.com/package/hikasami-sans?activeTab=readme#app-router View App Router Example}
-   * * {@link https://www.npmjs.com/package/hikasami-sans?activeTab=readme#with-tailwind-css View Tailwind Example}
-   * * {@link https://www.npmjs.com/package/hikasami-sans?activeTab=readme#pages-router View Pages Router Example}
+   * * {@link https://www.npmjs.com/package/@hikasami/font?activeTab=readme#app-router View App Router Example}
+   * * {@link https://www.npmjs.com/package/@hikasami/font?activeTab=readme#with-tailwind-css View Tailwind Example}
+   * * {@link https://www.npmjs.com/package/@hikasami/font?activeTab=readme#pages-router View Pages Router Example}
    * * {@link https://github.com/hikasami/font/releases Download Font Files}
    */
   export const HikasamiSansNonVariable: NextFontWithVariable;

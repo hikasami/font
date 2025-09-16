@@ -1,5 +1,5 @@
 // Example usage of Hikasami Sans in Next.js
-import { HikasamiSans } from 'hikasami-sans/font/sans';
+import { HikasamiSans } from '@hikasami/font/sans';
 
 export default function ExamplePage() {
   return (

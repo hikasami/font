@@ -9,19 +9,19 @@ Hikasami Sans is designed to be used in headlines, logos, posters, and other lar
 ### Installation
 
 ```sh
-npm install hikasami-sans
+npm install @hikasami/font
 ```
 
 ### Using with Next.js
 
-`HikasamiSans` is exported from `hikasami-sans/font/sans`. You can learn more by [reading the `next/font` docs](https://nextjs.org/docs/app/building-your-application/optimizing/fonts).
+`HikasamiSans` is exported from `@hikasami/font/sans`. You can learn more by [reading the `next/font` docs](https://nextjs.org/docs/app/building-your-application/optimizing/fonts).
 
 #### App Router
 
 In `app/layout.js`:
 
 ```jsx
-import { HikasamiSans } from "hikasami-sans/font/sans";
+import { HikasamiSans } from "@hikasami/font/sans";
 
 export default function RootLayout({
   children,
@@ -39,7 +39,7 @@ export default function RootLayout({
 In `pages/_app.js`:
 
 ```jsx
-import { HikasamiSans } from "hikasami-sans/font/sans";
+import { HikasamiSans } from "@hikasami/font/sans";
 
 export default function MyApp({ Component, pageProps }) {
   return (
@@ -56,7 +56,7 @@ If you're using a version of Next.js that's older than 15, then in `next.config.
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-+  transpilePackages: ["hikasami-sans"],
++  transpilePackages: ["@hikasami/font"],
 };
 
 export default nextConfig;
@@ -76,7 +76,7 @@ This is required to fix errors like:
 In `app/layout.js`:
 
 ```jsx
-import { HikasamiSans } from 'hikasami-sans/font/sans'
+import { HikasamiSans } from '@hikasami/font/sans'
 
 export default function RootLayout({
   children,

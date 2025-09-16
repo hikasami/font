@@ -1,6 +1,6 @@
 {
-  "name": "hikasami-sans",
-  "version": "1.0.0",
+  "name": "@hikasami/font",
+  "version": "1.0.1",
   "author": "Hikasami",
   "description": "Hikasami Sans - A modern, geometric sans-serif typeface",
   "publishConfig": {
@@ -16,7 +16,7 @@
     "test": "node scripts/test.js",
     "prepublishOnly": "npm run test && npm run build",
     "publish:patch": "node scripts/publish.js patch",
-    "publish:minor": "node scripts/publish.js minor", 
+    "publish:minor": "node scripts/publish.js minor",
     "publish:major": "node scripts/publish.js major",
     "publish:dry-run": "npm publish --dry-run"
   },
@@ -35,15 +35,15 @@
     "hikasami font"
   ],
   "exports": {
-    "./font": {
+    ".": {
       "types": "./font.d.ts",
       "default": "./font/font.js"
     },
-    "./font/sans": {
+    "./sans": {
       "types": "./font.d.ts",
       "default": "./font/sans.js"
     },
-    "./font/sans-non-variable": {
+    "./sans-non-variable": {
       "types": "./font.d.ts",
       "default": "./font/sans-non-variable.js"
     }

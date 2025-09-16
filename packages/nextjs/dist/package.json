@@ -1,7 +1,11 @@
 {
-  "name": "hikasami-sans",
-  "version": "1.0.0",
+  "name": "@hikasami/font",
+  "version": "1.0.1",
+  "author": "Hikasami",
   "description": "Hikasami Sans - A modern, geometric sans-serif typeface",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "./font.js",
   "type": "module",
   "module": "./font.js",
@@ -22,7 +26,7 @@
   "homepage": "https://github.com/hikasami/font",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hikasami/font",
+    "url": "git+https://github.com/hikasami/font.git",
     "directory": "packages/nextjs"
   },
   "keywords": [
@@ -35,15 +39,11 @@
       "types": "./font.d.ts",
       "default": "./font.js"
     },
-    "./font": {
-      "types": "./font.d.ts",
-      "default": "./font.js"
-    },
-    "./font/sans": {
+    "./sans": {
       "types": "./font.d.ts",
       "default": "./sans.js"
     },
-    "./font/sans-non-variable": {
+    "./sans-non-variable": {
       "types": "./font.d.ts",
       "default": "./sans-non-variable.js"
     }

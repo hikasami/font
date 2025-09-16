@@ -89,15 +89,11 @@ function main() {
                 "types": "./font.d.ts",
                 "default": "./font.js"
             },
-            "./font": {
-                "types": "./font.d.ts",
-                "default": "./font.js"
-            },
-            "./font/sans": {
+            "./sans": {
                 "types": "./font.d.ts",
                 "default": "./sans.js"
             },
-            "./font/sans-non-variable": {
+            "./sans-non-variable": {
                 "types": "./font.d.ts",
                 "default": "./sans-non-variable.js"
             }
