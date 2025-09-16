@@ -1,0 +1,55 @@
+{
+  "name": "hikasami-sans",
+  "version": "1.0.0",
+  "author": "Hikasami",
+  "description": "Hikasami Sans - A modern, geometric sans-serif typeface",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./font/font.js",
+  "type": "module",
+  "module": "./font/font.js",
+  "types": "./font.d.ts",
+  "scripts": {
+    "prepare": "node scripts/copy-fonts.js && copy ..\\..\\OFL.txt .\\LICENSE.TXT",
+    "build": "node scripts/build.js",
+    "test": "node scripts/test.js",
+    "prepublishOnly": "npm run test && npm run build",
+    "publish:patch": "node scripts/publish.js patch",
+    "publish:minor": "node scripts/publish.js minor", 
+    "publish:major": "node scripts/publish.js major",
+    "publish:dry-run": "npm publish --dry-run"
+  },
+  "bugs": {
+    "url": "https://github.com/hikasami/font/issues"
+  },
+  "homepage": "https://github.com/hikasami/font",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikasami/font.git",
+    "directory": "packages/nextjs"
+  },
+  "keywords": [
+    "hikasami",
+    "hikasami sans",
+    "hikasami font"
+  ],
+  "exports": {
+    "./font": {
+      "types": "./font.d.ts",
+      "default": "./font/font.js"
+    },
+    "./font/sans": {
+      "types": "./font.d.ts",
+      "default": "./font/sans.js"
+    },
+    "./font/sans-non-variable": {
+      "types": "./font.d.ts",
+      "default": "./font/sans-non-variable.js"
+    }
+  },
+  "license": "SIL OPEN FONT LICENSE",
+  "peerDependencies": {
+    "next": ">=13.2.0"
+  }
+}
